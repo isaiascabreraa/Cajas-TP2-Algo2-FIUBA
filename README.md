@@ -1,20 +1,9 @@
 # TP2-Cajas-Algo2-FIUBA
 
-TP2 - CAJAS DE ALMACENAMIENTO POKEMON (PARTE 2)
-Con el TP1 replicamos el sistema de almacenamiento en cajas de Pokemon. Ahora con este nuevo TP2 queremos lanzar al mercado nuestro nuevo sistema de gestión de cajas.
-
-Para lograr eso, necesitamos crear un nuevo programa que haga uso de la biblioteca implementada durante el TP1 para implementar un sistema completo de gestión de cajas (bueno, casi).
+TP - CAJAS DE ALMACENAMIENTO POKEMON
 
 OBJETIVO
 El objetivo de este trabajo es que puedas demostrar todo lo aprendido durante el cuatrimestre (no solo respecto del uso de TDAs, si no también de diseño y estilo de código, pruebas, complejidades, etc).
-
-Para cumplir este objetivo, el primer paso es modernizar tu implementación del TP1 siguiendo los siguientes consejos:
-
-Modifica las estructuras de tu implementación para que no hagan uso de vectores dinámicos. Reemplaza los vectores dinámicos con algún TDA que creas conveniente.
-Se permite el uso de vectores estáticos donde tenga sentido (por ejemplo, nombres de Pokemon o strings que estamos seguros que tienen un tamaño máximo determinado).
-Presta atención que al cambiar la implementación la interfaz no se modifica (no cambian los .h).
-Las pruebas del TP1 deberían funcionar y pasar sin problemas para la implementación modificada de la biblioteca.
-Una vez logrado este objetivo, podes continuar con el siguiente paso: la implementación del programa principal para gestionar las cajas.
 
 SISTEMA DE GESTIÓN DE CAJAS
 El sistema de gestión de cajas no es mas que un programa que cumple con los siguientes requisitos:
